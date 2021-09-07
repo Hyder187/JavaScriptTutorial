@@ -30,5 +30,5 @@ npm i parcel --save-dev
 
 ## Running on local
 ```bash
-npm i parcel --save-dev
+npx parcel index.html
 ```
