@@ -7,7 +7,10 @@ Implementation of JavaScript course: https://www.udemy.com/course/the-complete-j
 
 ## Installation instructions (section 17 & 18)
 
-Change directory to section 17/section 18
+Change directory to section 17 / section 18
+```bash
+cd /section-17:Modern_Javascript_Development
+```
 
 
 Initialize npm 
