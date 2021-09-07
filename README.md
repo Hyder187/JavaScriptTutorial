@@ -5,11 +5,11 @@ Implementation of JavaScript course: https://www.udemy.com/course/the-complete-j
 ## Requirements
 * [Node Js v14+](https://nodejs.org/en/download)
 
-## Installation instructions (section 17 & 18)
+## Installation instructions (section 17)
 
-Change directory to section 17 / section 18
+Change directory to section 17
 ```bash
-cd /section-17:Modern_Javascript_Development
+cd /section-17:Modern_JavaScript_Development
 ```
 
 
